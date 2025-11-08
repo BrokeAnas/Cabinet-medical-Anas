@@ -43,13 +43,13 @@ cabinet-medical/
 	•	Un serveur local (optionnel, conseillé pour ressources externes)
 
 ### Visualiser le site en local
-	1.	Cloner le dépôt (ou copier les fichiers)
+1.	Cloner le dépôt (ou copier les fichiers)
   
 ```bash
 git clone https://github.com/ton-compte/cabinet-medical.git
 cd cabinet-medical
 ```
-    2.	Ouvrir dans le navigateur l’adresse
+2.	Ouvrir dans le navigateur l’adresse
 
 ```bash
 http://localhost:8000/index.html
